@@ -1,3 +1,5 @@
+# Test
+
 # ✍️ Rich Text Editor w/ Lexical & React
 
 A simple wysiwyg / rich text editor built with Lexical and React. I built this demo project for my blog post on how to use Lexical. Feel free to browse, fork, and clone this repository.
